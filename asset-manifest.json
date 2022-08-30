@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/order-summary-tailwind/static/css/main.19be9460.css",
+    "main.js": "/order-summary-tailwind/static/js/main.e00f6a6b.js",
+    "static/media/illustration-hero.svg": "/order-summary-tailwind/static/media/illustration-hero.7303258392501e7adc159201ab028e44.svg",
+    "index.html": "/order-summary-tailwind/index.html",
+    "static/media/icon-music.svg": "/order-summary-tailwind/static/media/icon-music.f20c7787426b3847880ef13817068c16.svg",
+    "static/media/pattern-background-desktop.svg": "/order-summary-tailwind/static/media/pattern-background-desktop.5a0ab6898fc956557d00.svg",
+    "main.19be9460.css.map": "/order-summary-tailwind/static/css/main.19be9460.css.map",
+    "main.e00f6a6b.js.map": "/order-summary-tailwind/static/js/main.e00f6a6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19be9460.css",
+    "static/js/main.e00f6a6b.js"
+  ]
+}
