@@ -1,4 +1,3 @@
-import './App.css';
 import OrderSummary from './components/orderSummary';
 
 function App() {
